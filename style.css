@@ -112,7 +112,7 @@ section {
 .title {
     display: flex;
     justify-content: center;
-    color: rgb(12, 12, 176);
+    color: rgb(33, 44, 255);
     font-size: 2.2em;
     font-weight: 800;
     margin-bottom: 30px;
@@ -145,7 +145,7 @@ section {
 }
 
 .card .icon {
-    color: rgb(12, 12, 176);
+    color: rgb(33, 44, 255);
     font-size: 8em;
     text-align: center;
 }
@@ -155,14 +155,14 @@ section {
 }
 
 .info h3{
-    color: rgb(12, 12, 176);
+    color: rgb(33, 44, 255);
     font-size: 1.2em;
     font-weight: 700;
     margin: 10px;
 }
 
 .projects {
-    background-color: rgb(12, 12, 176);
+    background-color: rgb(33, 44, 255);
 }
 
 .titlee {
@@ -220,7 +220,7 @@ section {
 
 .more-details {
     text-decoration: none;
-    color: rgb(12, 12, 176);
+    color: rgb(33, 44, 255);
 }
 
 .more-details:hover {
@@ -253,7 +253,7 @@ section {
 }
 
 .footer-title span {
-    color: rgb(12, 12, 176);
+    color: rgb(33, 44, 255);
 }
 
 .footer .social-icons a {
