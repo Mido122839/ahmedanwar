@@ -67,6 +67,7 @@ section {
     color: rgb(33, 44, 255);
     font-size: 3em;
     font-weight: 600;
+    line-height: 1.28;
 }
 
 .main h3 {
